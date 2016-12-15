@@ -13,6 +13,7 @@
 ## Software Theory
 * [Variable](https://en.wikipedia.org/wiki/Variable_(computer_science)) - A unit of data referenced by a name. For example, you can declare that there is a variable called "x" that stores the data "5".
 * [Subroutine / Function / Method](https://en.wikipedia.org/wiki/Subroutine) - A set of instructions represented by a name that may receive input and may produce output. For example, you could have a function called "add" that takes in two numbers and outputs one number.
+
 ### Object Oriented Programming
 * [Object Oriented Programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)) - A programming paradigm where data is represented as objects, making it easier to conceptualize and manipulate information.
 * [Object](https://en.wikipedia.org/wiki/Object_(computer_science)) - A unit of data and functionality in OOP. Using the blueprint and building analogy, this is the building.
